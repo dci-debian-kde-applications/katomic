@@ -1,3 +1,9 @@
+katomic (4:4.10.2-2) UNRELEASED; urgency=low
+
+  * Remove legacy links file.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 08 Apr 2013 16:54:59 +0200
+
 katomic (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
