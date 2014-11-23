@@ -23,7 +23,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/katomic.git
 Package: katomic
 Architecture: any
 Depends: ${misc:Depends}, ${perl:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: atomix puzzle game
  KAtomic is a puzzle game in which the player slides atoms around the board to
  assemble a molecule.
