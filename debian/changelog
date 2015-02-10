@@ -1,4 +1,4 @@
-katomic (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
+katomic (4:14.12.2-0ubuntu1) vivid; urgency=medium
    
   * New upstream release 
   * Remove unstable from watch file, 
@@ -6,7 +6,7 @@ katomic (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
   * Oops, actually remove it.
   * Fix changelog length.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 06 Feb 2015 12:30:26 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:39:33 -0800
 
 katomic (4:14.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
