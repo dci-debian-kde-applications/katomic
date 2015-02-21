@@ -1,4 +1,4 @@
-katomic (4:14.12.2-1~) UNRELEASED; urgency=medium
+katomic (4:14.12.2-1) experimental; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Remove myself from Uploaders.
@@ -9,7 +9,7 @@ katomic (4:14.12.2-1~) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Add back kdelibs parent version depend
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 14:14:58 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 16:45:24 +0100
 
 katomic (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
