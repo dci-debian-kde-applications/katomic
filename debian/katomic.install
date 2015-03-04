@@ -1,4 +1,5 @@
 ../icons/katomic-16.xpm /usr/share/pixmaps
 ../icons/katomic.xpm /usr/share/pixmaps
+etc/xdg/katomic.knsrc
 usr/games/katomic
 usr/share/*
