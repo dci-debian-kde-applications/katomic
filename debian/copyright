@@ -5,34 +5,21 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 1999, Stephan Kulow <coolo@kde.org>
-           1999, Cristian Tibirna <tibirna@kde.org>
-           1998, Andreas Wuest <AndreasWuest@gmx.de>
+Copyright: 1998, Andreas Wüst <AndreasWuest@gmx.de>
+           2010, Brian Croom <brian.s.croom@gmail.com>
+           2007, Carsten Niehaus <cniehaus@kde.org>
            2006-2009, Dmitry Suzdalev <dimsuz@gmail.com>
+           1989-1991, Free Software Foundation, Inc
+           2007, Simon Hürlimann <simon.huerlimann@huerlisi.ch>
+           1999, Stephan Kulow <coolo@kde.org>
+           1999, Cristian Tibirna <tibirna@kde.org>
 License: GPL-2+
 
 Files: doc/*
 Copyright: 2000 Dirk Doerflinger <ddoerflinger@gmx.net>
+           1999, Stephan Kulow
+           Andreas Wuest <Andreas Wuest@gmx.de>
 License: GFDL-1.2+
-
-Files: fielditem.cpp
-Copyright: 2010, Brian Croom <brian.s.croom@gmail.com>
-           2006, Dmitry Suzdalev <dimsuz@gmail.com>
-           2007, Carsten Niehaus <cniehaus@kde.org>
-License: GPL-2+
-
-Files: fielditem.h
-       playfield.cpp
-       playfield.h
-Copyright: 2010, Brian Croom <brian.s.croom@gmail.com>
-           2006,2007, Dmitry Suzdalev <dimsuz@gmail.com>
-License: GPL-2+
-
-Files: toplevel.cpp
-Copyright: 2007, Simon Hürlimann <simon.huerlimann@huerlisi.ch>
-           1998, Andreas Wüst <AndreasWuest@gmx.de>
-           2006 Dmitry Suzdalev <dimsuz@gmail.com>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
