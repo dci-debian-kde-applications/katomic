@@ -1,10 +1,6 @@
-katomic (4:16.04.0-1~2.gbpfe6132) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @fe6132487e4152840e3ae1adebf80c9781ed1160 **
+katomic (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @dcca239b1a5c67acb00f272caebac226c8f8d876 **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -14,7 +10,7 @@ katomic (4:16.04.0-1~2.gbpfe6132) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 12:11:53 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:10:34 +0200
 
 katomic (4:15.12.0-1) experimental; urgency=medium
 
