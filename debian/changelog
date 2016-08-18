@@ -1,3 +1,11 @@
+katomic (4:16.08.0-1~1.gbp16d858) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @16d858f3b6cf6c021435e6fbb3bb9445705ed5a4 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:04:12 +0200
+
 katomic (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
