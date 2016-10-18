@@ -1,16 +1,12 @@
-katomic (4:16.08.1-1~1.gbp18eb7c) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @18eb7cfdeaf28e372bce2389d104413cb0710b0e **
+katomic (4:16.08.1-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @16d858f3b6cf6c021435e6fbb3bb9445705ed5a4 **
-
-  * UNRELEASED
+  * New upstream release (16.08.1)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:04:36 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:05:56 +0200
 
 katomic (4:16.04.0-1) unstable; urgency=medium
 
